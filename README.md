@@ -1,7 +1,7 @@
 ## Task
 
-- Main item
-  - Nested item 1
+ 1. Main item
+  1.1.  Nested item 1
   - Nested item 2
 - Another main item
   - Nested item 1
