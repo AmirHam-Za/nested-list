@@ -11,7 +11,7 @@
 
 5. Implement the design in the dashboard component.
 
-6. Create local database using json server.
+6. ~~Create local database using json server.~~
 
    1. Install json-server.
 
