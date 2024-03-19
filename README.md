@@ -1,6 +1,7 @@
 ## Task
+~This text will be struck through.~
 
-1. Initial ng setup.
+1. ~~Initial ng setup.~~
 
 2. Tailwind configaration.
 
