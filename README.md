@@ -1,5 +1,13 @@
 ## Task
 
+- Main item
+  - Nested item 1
+  - Nested item 2
+- Another main item
+  - Nested item 1
+  - Nested item 2
+
+
 1.Initial ng setup.
 
 2.Tailwind configaration.
