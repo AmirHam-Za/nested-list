@@ -24,10 +24,11 @@
     2. Check in the console if the data called properly.
     2. Create a  component named TaskTypeComponent for all boxes and implement it in the DashboardComponent.
     2. Create a  component named TaskComponent for all tasks and implement it in the TaskTypeComponent .
-    3. ~~Show the dynamic data in task-type.component.html~~.
-    3. ~~Refactor code & structure.~~
+    3. Show the dynamic data in task-type.component.html.
+    3. Refactor code & structure.
 
 8. Show every specific data in the related box.
+   8. Show every specific data in the related box.
 
 9. Add drag and drop option along with specific API calling.
 
