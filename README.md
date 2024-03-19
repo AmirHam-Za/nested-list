@@ -1,34 +1,22 @@
-## Task
-~This text will be struck through.~
+6. ~~Create local database using json server~~.
 
-1. ~~Initial ng setup.~~
+  1. ~~Install json-server~~.
 
-2. Tailwind configaration.
+  2. ~~Install Concurrently~~.
 
-3. Create a dashboard component.
+  3. ~~Add concurently command in script in package.json file~~.
 
-4. Create the required UI design.
+  4. ~~Create 'data' folder in root and create 'db.json' file in it~~.
 
-5. Implement the design in the dashboard component.
+  5. ~~In 'db.json' file, create specific data  for the task board~~.
 
-6. ~~Create local database using json server.~~
+  6. ~~Run the application with concurruntly command~~.
 
-   1. Install json-server.
 
-   2. Install Concurrently.
+7. Call data from the api from json server.
 
-   3. Add concurently command in script in package.json file.
+  1. Call data in dashboard.component.ts file from  database of local json-server.
 
-   4. Create 'data' folder in root and create 'db.json' file in it.
+  2. Check in the console if the data called properly file.
 
-   5. In 'db.json' file, create specific data  for the task board.
-
-   6. Run the application with concurruntly command.
-
-8. Call data from the api from json server.
-
-9. Show every specific data in the related box.
-
-10. Add drag and drop option along with specific api calling.
-
-11. Check if everything works.
+  3. Show the dynamic data in  dashboard.component.html.
