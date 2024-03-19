@@ -13,10 +13,3 @@
   6. ~~Run the application with concurruntly command~~.
 
 
-7. Call data from the api from json server.
-
-  1. Call data in dashboard.component.ts file from  database of local json-server.
-
-  2. Check in the console if the data called properly file.
-
-  3. Show the dynamic data in  dashboard.component.html.
