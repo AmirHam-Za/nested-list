@@ -3,7 +3,7 @@
  1. Main item
   - Nested item 1
   - Nested item 2
-- Another main item
+1 Another main item
   - Nested item 1
   - Nested item 2
 
