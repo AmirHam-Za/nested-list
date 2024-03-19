@@ -1,6 +1,6 @@
 ## Task
 1. Main Task
-   1. Subtask 1
+   1.1 Subtask 1
    1. Subtask 1
    1. Subtask 1
       
