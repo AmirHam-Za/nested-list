@@ -20,8 +20,12 @@
 
 7. Call data from the API json server.
     1. Call data in dashboard.component.ts file from database of local json-server.
+    2. Handle error using error handler.
     2. Check in the console if the data called properly.
-    3. Show the dynamic data in dashboard.component.html.
+    2. Create a  component named TaskTypeComponent for all boxes and implement it in the DashboardComponent.
+    2. Create a  component named TaskComponent for all tasks and implement it in the TaskTypeComponent .
+    3. ~~Show the dynamic data in task-type.component.html~~.
+    ~~3. Refactor code & structure.~~
 
 8. Show every specific data in the related box.
 
