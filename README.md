@@ -8,7 +8,7 @@
   - Nested item 2
 
 
-1.Initial ng setup.
+Initial ng setup.
 
 2.Tailwind configaration.
 
@@ -18,9 +18,9 @@
 
 5.Implement the design in the dashboard component.
 
-6.Create local database using json server.
+6. Create local database using json server.
 
-6.1.Install json-server.
+  6.1. Install json-server.
 
 6.2.Install Concurrently.
 
