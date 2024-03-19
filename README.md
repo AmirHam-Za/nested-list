@@ -28,7 +28,7 @@
     3. Refactor code & structure.
 
 8. Show every specific data in the related box.
-   8. Show every specific data in the related box.
+   - Show every specific data in the related box.
 
 9. Add drag and drop option along with specific API calling.
 
