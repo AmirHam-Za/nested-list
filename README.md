@@ -1,9 +1,5 @@
 ## Task
 
-2. Another Main Task
-   1. Subtask 1
-   3. Subtask 1
-
 1. Initial ng setup.
 2. Tailwind configaration.
 3. Create a dashboard component.
