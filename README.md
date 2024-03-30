@@ -31,3 +31,7 @@
 10. Add drag and drop option along with specific api calling.
 
 11. ✅Check if everything works.
+
+```bash
+copy to clip
+```
