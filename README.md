@@ -34,6 +34,7 @@
 
 # Angular Task Board Application
 
+## Description
 This Angular task board application allows users to manage tasks by organizing them into four categories: Ideas, Research, Todo, and Done. Users can transfer tasks between these categories using drag and drop functionality, updating the task status accordingly.
 
 ## Installation
