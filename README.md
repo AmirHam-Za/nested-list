@@ -60,7 +60,7 @@ npm run start
 http://localhost:4200
 ```
 
-## Technologies Used
+## Tools Used
 
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
