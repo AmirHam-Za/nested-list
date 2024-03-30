@@ -57,6 +57,10 @@ npm install
 npm run start
 ```
 
+#### 4 Navigate to the link to view the application in the browser:
+```bash
+http://localhost:4200
+`
 ## Tools Used
 
 - [Angular](https://angular.io/)
