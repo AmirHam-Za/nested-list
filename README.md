@@ -57,7 +57,7 @@ npm install
 npm run start
 ```
 
-#### 4 Navigate to the link to view the application in the browser:
+#### 4 Navigate to this link to view the application in the browser:
 ```bash
 http://localhost:4200
 ```
